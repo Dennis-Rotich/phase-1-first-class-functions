@@ -1,6 +1,6 @@
-# First-Class Functions
+# First-Class Functions 
 
-## Learning Goals
+## Learning Goals 
 
 - Define "first-class function"
 - Use inline functions
